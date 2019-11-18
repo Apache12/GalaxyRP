@@ -1,1 +1,1 @@
-servidor-galaxyrp.ddns.net
+servidor-galaxyrp.ddns.net:30120

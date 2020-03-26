@@ -1,0 +1,19 @@
+{
+  "Noticias": [
+    {
+      "titulo": "Novo Update do Launcher (v. 1.1.0.0)",
+      "url": "http://getwallpapers.com/wallpaper/full/1/8/1/64812.jpg",
+      "data": "26/03/2020"
+    },
+    {
+      "titulo": "Novo Update do Launcher (v. 1.1.0.0)",
+      "url": "http://getwallpapers.com/wallpaper/full/1/8/1/64812.jpg",
+      "data": "26/03/2020"
+    },
+    {
+      "titulo": "Novo Update do Launcher (v. 1.1.0.0)",
+      "url": "http://getwallpapers.com/wallpaper/full/1/8/1/64812.jpg",
+      "data": "26/03/2020"
+    }
+  ]
+}

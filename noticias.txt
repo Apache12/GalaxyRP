@@ -12,7 +12,7 @@
     },
     {
       "titulo": "Novo Update do Launcher (v. 1.1.0.0)",
-      "url": "http://getwallpapers.com/wallpaper/full/1/8/1/64812.jpg",
+      "url": "https://gtavguide.files.wordpress.com/2013/07/beach-weather-background1.png?w=848",
       "data": "26/03/2020"
     }
   ]

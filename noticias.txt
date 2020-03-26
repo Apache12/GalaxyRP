@@ -7,7 +7,7 @@
     },
     {
       "titulo": "Novo Update do Launcher (v. 1.1.0.0)",
-      "url": "http://getwallpapers.com/wallpaper/full/1/8/1/64812.jpg",
+      "url": "https://i.pinimg.com/originals/34/24/62/34246261f330253648bc9fa449e3044c.jpg",
       "data": "26/03/2020"
     },
     {
